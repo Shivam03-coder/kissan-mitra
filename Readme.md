@@ -47,5 +47,3 @@ Kissan Mitra is an AI-powered platform developed during a hackathon to address c
 
 ---
 
-## 📦 Project Structure
-
